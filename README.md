@@ -27,8 +27,9 @@ the data I use is still the old data from phase 3 with modification.. look insid
 you should put new folder "data" in the same folder with your javaminibase
 
 
-
 then in your main method
+
+
     public static void main(String[] args) {
         new SetupDB();
 
