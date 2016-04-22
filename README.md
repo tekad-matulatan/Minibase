@@ -5,22 +5,24 @@ NEW VERSION -------
 I have update the library
 It is consists of package
 - console
--   CommandProcessor
--   ParserResult
--   QueryDriver
--   QueryParser
--   QueryValidator
--   Session
--   SetupDB
--   Table
+    -   CommandProcessor
+    -   ParserResult
+    -   QueryDriver
+    -   QueryParser
+    -   QueryValidator
+    -   Session
+    -   SetupDB
+    -   Table
 - exception
--   QueryException
+    -   QueryException
 - iterator <---- this one from original minibase
--   PermutationJoin <--- this my version from the paper IEJOIN
+    -   PermutationJoin <--- this my version from the paper IEJOIN
 -   
 
 How to use it...
-it is better you delete the whole iterator folder from source because it is already inside the library
+it is better you delete the whole iterator folder from source because it is already inside the library.
+I have upload the solo file PermutationJoin.java into folder iterator... so you also can look the source
+
 the data I use is still the old data from phase 3 with modification.. look inside the data.zip
 you should put new folder "data" in the same folder with your javaminibase
 
