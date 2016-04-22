@@ -11,3 +11,5 @@ should be processed to get the execution plan A, B, C... up to when decided whic
 Because frankly I dont understand the Theory... please... you help me in that part so I implement that in the code..
 
 Tomorrow Friday I have a class "Statistic Machine Learning" on 12 to 3 with presentation, so I wont be at DBMS class
+
+I'll come to lab session at 14:30
